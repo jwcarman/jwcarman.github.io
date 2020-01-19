@@ -28,7 +28,7 @@ twitter_username: jwcarman
 github_username:  jwcarman
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
