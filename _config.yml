@@ -28,9 +28,11 @@ twitter_username: jwcarman
 github_username:  jwcarman
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Google Analytics
 google_analytics: UA-3652708-6
