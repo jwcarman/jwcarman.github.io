@@ -29,7 +29,7 @@ github_username:  jwcarman
 
 # Build settings
 #theme: minima
-remote_theme: daviddarnes/alembic
+remote_theme: poole/lanyon
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
